@@ -79,10 +79,10 @@ Các bước:
 - Nhấn nút đăng nhập.
 - Kết quả mong đợi: Hiển thị thông báo yêu cầu nhập đầy đủ thông tin.
 ## Công Nghệ Sử Dụng
-- **Ngôn Ngữ Lập Trình**: Java
-- **Framework Kiểm Thử**: TestNG
-- **Công Cụ Tự Động Hóa**: Selenium WebDriver
-- **Công Cụ Xây Dựng**: Maven
+- Ngôn Ngữ Lập Trình: Java
+- Framework Kiểm Thử: TestNG
+- Công Cụ Tự Động Hóa: Selenium WebDriver
+- Công Cụ Xây Dựng: Maven
 ## Kết quả
 ![Screenshot_6](https://github.com/user-attachments/assets/c923c3df-5716-4d8f-835b-997d0beac81a)
 
