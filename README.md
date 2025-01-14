@@ -4,7 +4,6 @@ Trần Trung Đức - 22ITSE1 - BIT220204
 Dự án này chứa các kịch bản kiểm thử tự động để kiểm tra chức năng đăng nhập của Facebook sử dụng Selenium WebDriver. Mục tiêu của dự án là kiểm tra nhiều tình huống khác nhau như đăng nhập thành công, đăng nhập thất bại và xác minh thông báo lỗi.
 
 ## Tính Năng
-
 - Kiểm thử tự động chức năng đăng nhập của Facebook.
 - Kiểm tra:
   - Đăng nhập thành công với thông tin hợp lệ.
@@ -12,19 +11,12 @@ Dự án này chứa các kịch bản kiểm thử tự động để kiểm tr
   - Các thành phần giao diện trên trang đăng nhập.
 - Kịch bản được viết bằng **Java** với **Selenium WebDriver**.
 - Tích hợp **TestNG** để thực thi và báo cáo kết quả kiểm thử.
-
----
-
 ## Yêu Cầu Trước Khi Sử Dụng
-
 Hãy đảm bảo bạn đã cài đặt các công cụ và thư viện sau:
-
 1. **Java Development Kit (JDK)** (phiên bản 8 trở lên)
 2. **Maven** (để quản lý thư viện)
 3. **ChromeDriver** hoặc WebDriver phù hợp với trình duyệt bạn đang sử dụng
 4. **Git** (để clone mã nguồn)
-
----
 
 ## Hướng Dẫn Cài Đặt
 
