@@ -85,7 +85,7 @@ Các bước:
 - **Công Cụ Tự Động Hóa**: Selenium WebDriver
 - **Công Cụ Xây Dựng**: Maven
 ## Kết quả
-
+![Screenshot_6](https://github.com/user-attachments/assets/c923c3df-5716-4d8f-835b-997d0beac81a)
 
 ## Đóng Góp
 Mọi đóng góp đều được hoan nghênh! Hãy thực hiện các bước sau:
