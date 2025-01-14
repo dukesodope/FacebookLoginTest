@@ -34,9 +34,7 @@ Hãy đảm bảo bạn đã cài đặt các công cụ và thư viện sau:
   cd FacebookLoginTest
 ```
 2. Import dự án vào IDE bạn sử dụng (ví dụ: IntelliJ IDEA, Eclipse)
-
 3. Cấu hình thư viện cần thiết: Maven sẽ tự động tải về các thư viện được khai báo trong tệp `pom.xml`.
-
 4. Tải về WebDriver phù hợp:
 - Đối với Chrome: ChromeDriver
 - Đặt driver trong PATH của hệ thống hoặc cập nhật đường dẫn trong mã nguồn
