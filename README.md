@@ -87,7 +87,7 @@ Các bước:
 ![Screenshot_6](https://github.com/user-attachments/assets/c923c3df-5716-4d8f-835b-997d0beac81a)
 
 ## Tham khảo
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/](https://chatgpt.com/share/678539b2-1a00-8013-9e0d-4beecc549266))
+https://chatgpt.com/share/678539b2-1a00-8013-9e0d-4beecc549266
 ## Đóng Góp
 Mọi đóng góp đều được hoan nghênh! Hãy thực hiện các bước sau:
 
